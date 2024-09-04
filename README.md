@@ -130,4 +130,4 @@ I am a systems architect with 15+ years of experience focusing on scalable & tes
 
 # Education
 * 2004 - 2006 Loyola Marymount University (Computer Science)
-* 1999 – 200 University of California, Irvine (Information and Computer Science)
+* 1999 – 2004 University of California, Irvine (Information and Computer Science)
