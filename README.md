@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 * ⚡ Fun fact: ...
 -->
 
-babak.naffas@gmail.com | http://babaknaffas.com
+babak.naffas@gmail.com | [https://babakontheweb.github.io](https://babakontheweb.github.io/)
 
 **Visa Status** United States Citizen
 
@@ -23,7 +23,7 @@ Excellent English communications skills; fluent in Farsi; some Spanish and Hebre
 
 # Career Summary
 
-I am a systems architect with 15+ years of experience focusing on scalable, testable solutions, continuous integration techniques, and managing projects across the SDLC.
+I am a systems architect with 15+ years of experience focusing on scalable & testable solutions, continuous integration, and managing projects across the SDLC.
 
 ## Developer Tools and Platforms
 
