@@ -33,7 +33,7 @@ I am a systems architect with 15+ years of experience focusing on scalable & tes
 
 **Build Automation -** Jenkins, codefresh, GitHub Workflows
 
-**Unit Testing –** MSTest, xUnit, Mocha, jest
+**Unit Testing –** MSTest, xUnit, mocha, jest
 
 **Bug Tracking –** GitHub, Trac, Mingle, JIRA 
 
@@ -53,7 +53,7 @@ I am a systems architect with 15+ years of experience focusing on scalable & tes
 * Systems and feature documentation and review to identify feature use, legacy/dead code and systems, and performance optimizations with a focus on availability, performance, and scalability.
 * Working with product teams providing design and architecture reviews and recommendations in preparation for implementations.
 
-### Staff Engineer (April 2016 – March 2018)
+### Staff Software Engineer (April 2016 – March 2018)
 
 * Load testing of our production environments in preparation of quickly spiking high load events lead to zero downtime for involved APIs and services.
   - jMeter load tests were deployed using jmeter-ec2 for production scale load in pre-prod and production environments while providing 90% cost savings over commercial offerings
@@ -90,10 +90,8 @@ I am a systems architect with 15+ years of experience focusing on scalable & tes
 * Mentoring and code reviews for associate/junior software engineers and off-shore resources
 * R&D for proposed system integrations looking into architecture, capabilities, data accessibility, and scalability. Integrated OpenGraph tags into a multi-site architecture to help keep up with search engine changes.
 
-## Senior Software Engineer
-
-<table><tbody><tr><th><h2>August 2008 – April 2012</h2></th><th><h2>Lieberman Research Worldwide</h2></th><th><h2>Century City, CA</h2></th></tr></tbody></table>
-
+## Lieberman Research Worldwide | Century City, CA
+### Senior Software Engineer (August 2008 – April 2012)
 * Full software development life cycle responsibilities: analyzing business requirements and use cases, design and architecture, integration, deployment, and client support. Also worked with PMO to determine estimates and timelines.
 * Mentoring junior developers introducing design patterns (MVC, Singletons, Subscribers), best practices for development, refactoring techniques, unit testing, and web technologies.
 * Managing joint off-shore and local team of developers and consultants – coordinating efforts between developers, product owners, QA staff, and interns for final development and on-time release online reporting tools developed using the Microsoft/.NET stack and 3<sup>rd</sup> party components
@@ -116,6 +114,7 @@ I am a systems architect with 15+ years of experience focusing on scalable & tes
 
 ## Lantronix | Irvine, CA
 ### Software Engineer Intern (May 2004 – August 2004)
+* Implemented nUnit tests validating internal .NET Framework implementation 
 
 ## WARPG | Cost Mesa, CA
 ### Game Developer & Team Lead (June 2002 – June 2004)
