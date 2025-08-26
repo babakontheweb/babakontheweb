@@ -23,13 +23,13 @@ Excellent English communications skills; fluent in Farsi; some Spanish and Hebre
 
 # Career Summary
 
-I am a systems architect with 15+ years of experience focusing on scalable & testable solutions, continuous integration, and managing projects across the SDLC.
+Principal Software Engineer with two decades of experience bridging product vision and engineering delivery. Skilled in architecting scalable, testable systems, championing CI/CD practices, and leading cross-functional teams through all phases of the SDLC.
 
 ## Developer Tools and Platforms
 
 **Cloud Platforms** - AWS, Azure 
 
-**Databases** – MS SQL Server, postgresql, MySQL, Redis, ElasticSearch
+**Databases** – MS SQL Server, PostgreSQL, MySQL, Redis, ElasticSearch
 
 **Build Automation -** Jenkins, codefresh, GitHub Workflows
 
@@ -39,13 +39,16 @@ I am a systems architect with 15+ years of experience focusing on scalable & tes
 
 **Web Tools -** Chrome Developer Tools, Firebug, Postman, curl
 
-**APM and Logging –** Datadog, Kibana
+**APM and Logging –** Datadog, Kibana, ELK Stack
 
 # Experience
-## Endpoint | El Segundo, CA
+## Endpoint (First American) | El Segundo, CA
 
 ### Principal Software Engineer (December 2020 – Present)
-* Work with engineering managers and product owners to breakdown product requirements into domains & micro services. Documenting technical requirements and how they relate to functional requirements
+* Work with engineering managers and product owners to breakdown product requirements into domains & micro services. Documenting technical requirements and how they relate to functional requirements. Regular meetings with product designers, product owners, and other team leads reduced overall engineering cost
+* Coordinated between internal SRE and Datadog sales engineers to integrate APM capabilities into our deployed systems. Monitoring and observability improvements reduced MTTI by 80% and MTTR by 50%.
+Spending 25% of my time doing IC work; Integrating AI tools has allowed me to double my throughput
+* Architected system requirements based on product roadmap forecasts, preemptively mitigating backend technical debt and reducing overall engineering costs by 25%
 
 ## Fandango | Beverly Hills, CA
 
@@ -54,15 +57,12 @@ I am a systems architect with 15+ years of experience focusing on scalable & tes
 * Working with product teams providing design and architecture reviews and recommendations in preparation for implementations.
 
 ### Staff Software Engineer (April 2016 – March 2018)
-
-* Load testing of our production environments in preparation of quickly spiking high load events lead to zero downtime for involved APIs and services.
-  - jMeter load tests were deployed using jmeter-ec2 for production scale load in pre-prod and production environments while providing 90% cost savings over commercial offerings
-  - Create, review, and analyze dashboards to correlate load-testing feedback with system dashboards and metrics to identify bottlenecks and improvements.
+* Designed and executed production-scale load tests (jMeter + jmeter-ec2), enabling near-zero downtime during high-traffic spikes and reducing testing costs by 90% vs. commercial tools. Logging improvements and APM dashboards correlated with load-testing feedback with system dashboards and metrics to identify bottlenecks and improvements.
 * Reviewing AWS environments and tuning for cost while maintaining high availability and fault tolerance.
-* Interviewing candidates for Software Engineering and Systems Reliability Engineer positions
+* Interviewing candidates for Software Engineering and Systems Reliability Engineer positions 
 * Managing a portfolio of internal and public facing websites and RESTful services. Responsible for feature development, bug fixes, performance tracking, reliability, and DevOps.
 * Managing public APIs via Mashery and Akamai and onboarding new 3rd party integrations
-* Lead efforts in migrating monolithic, datacenter-hosted web applications to cloud hosted architecture in AWS
+* Lead efforts migrating monolithic, datacenter-hosted web applications to cloud hosted architecture in AWS
 * Application Performance Management (APM) for applications deployed across data centers and the cloud using AppDynamics. Responsible for managing permissions, rollouts, and configurations to provide optimal real-time data across our apps, data centers, and architectures.
 * Architected, implemented, and maintained a variety of applications as they were migrated from data center hosting to the AWS cloud. PowerShell and the AWS SDK were used to automate the release process
 
